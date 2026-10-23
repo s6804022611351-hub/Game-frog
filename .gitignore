@@ -1,0 +1,7 @@
+**/.vs/
+**/bin/
+**/obj/
+**/*.user
+git rm -r --cached .
+git add .
+git commit -m "chore: remove ignored files from cache"

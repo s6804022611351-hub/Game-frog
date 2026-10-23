@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chananthon\\Pictures\\GAMe\\GAME\\Main\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {}
+    "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chananthon\\Pictures\\GAMe\\GAME\\Main\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {
+    "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chananthon\\Pictures\\GAMe\\GAME\\Main\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
+        "projectUniqueName": "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
         "projectName": "Sec2_Group1_HappyJumpingFrog",
-        "projectPath": "C:\\Users\\Chananthon\\Pictures\\GAMe\\GAME\\Main\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
+        "projectPath": "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
         "packagesPath": "C:\\Users\\Chananthon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chananthon\\Pictures\\GAMe\\GAME\\Main\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\obj\\",
+        "outputPath": "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
