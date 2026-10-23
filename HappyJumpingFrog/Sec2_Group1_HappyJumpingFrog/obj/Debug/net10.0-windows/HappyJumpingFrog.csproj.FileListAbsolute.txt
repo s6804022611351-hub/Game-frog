@@ -1,0 +1,7 @@
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\HappyJumpingFrog.Properties.Resources.resources
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.FormGame.cs.resources
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\HappyJumpingFrog.csproj.GenerateResource.cache
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\HappyJumpingFrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\HappyJumpingFrog.AssemblyInfoInputs.cache
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\HappyJumpingFrog.AssemblyInfo.cs
+C:\68-040226-1135-1\หลังมิด\040223201\Labs\lab6\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\HappyJumpingFrog.csproj.CoreCompileInputs.cache
