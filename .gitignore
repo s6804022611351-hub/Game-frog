@@ -1,5 +1,11 @@
-**/.vs/
-**/bin/
-**/obj/
-**/*.user
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.userprefs
+*.suo
+*.dll
+*.exe
+*.pdb
+*.cache
 
