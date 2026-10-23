@@ -118,6 +118,7 @@ namespace Sec2_Group1_HappyJumpingFrog
         private void FormGame_Load(object sender, EventArgs e)
         {
             //อยากเย็ดหี
+            //คนสวย
         }
     }
 }

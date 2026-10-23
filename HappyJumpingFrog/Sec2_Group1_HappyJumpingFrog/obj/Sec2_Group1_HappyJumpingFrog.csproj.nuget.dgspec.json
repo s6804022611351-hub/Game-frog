@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {}
+    "C:\\Mac\\Home\\Downloads\\Project_oop\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {
+    "C:\\Mac\\Home\\Downloads\\Project_oop\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
+        "projectUniqueName": "C:\\Mac\\Home\\Downloads\\Project_oop\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
         "projectName": "Sec2_Group1_HappyJumpingFrog",
-        "projectPath": "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
-        "packagesPath": "C:\\Users\\Chananthon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chananthon\\Videos\\Game\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\obj\\",
+        "projectPath": "C:\\Mac\\Home\\Downloads\\Project_oop\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog.csproj",
+        "packagesPath": "C:\\Users\\thanakornsuatang\\.nuget\\packages\\",
+        "outputPath": "C:\\Mac\\Home\\Downloads\\Project_oop\\Game-frog\\HappyJumpingFrog\\Sec2_Group1_HappyJumpingFrog\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Chananthon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\thanakornsuatang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +66,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
