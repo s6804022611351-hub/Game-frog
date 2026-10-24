@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sec2_Group1_HappyJumpingFrog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ebbca60b1278dfbfdb05774f196462e1a3ac37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa50b60cdf265dd22a5235e840a26a3e5da565f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sec2_Group1_HappyJumpingFrog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sec2_Group1_HappyJumpingFrog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
