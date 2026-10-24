@@ -40,5 +40,10 @@ namespace Sec2_Group1_HappyJumpingFrog.Class
             foreach (EnemyMonster enemy in Enemies)
                 enemy.Draw(g);
         }
+        public void SetAreaWidth(int width)
+        {
+            foreach (EnemyMonster enemy in Enemies)
+                enemy.AreaWidth = width;
+        }
     }
 }

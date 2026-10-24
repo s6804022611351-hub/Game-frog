@@ -10,13 +10,13 @@ namespace Sec2_Group1_HappyJumpingFrog.Class
     public class EnemyMonster : GameObject
     {
         private readonly float _speed;        // บวก = ไปขวา, ลบ = ไปซ้าย
-        private readonly int _areaWidth;
+        public int AreaWidth { get; set; }  
 
         public EnemyMonster(Image sprite, float x, float y, float speed, int areaWidth)
             : base(sprite, x, y, 50, 50)
         {
             _speed = speed;
-            _areaWidth = areaWidth;
+            AreaWidth = areaWidth;
         }
 
         public override void Update()
@@ -24,8 +24,8 @@ namespace Sec2_Group1_HappyJumpingFrog.Class
             X += _speed;
 
             // วิ่งพ้นจอแล้วให้โผล่อีกฝั่ง
-            if (_speed > 0 && X > _areaWidth) X = -Width;
-            if (_speed < 0 && X < -Width) X = _areaWidth;
+            if (_speed > 0 && X > AreaWidth) X = -Width;
+            if (_speed < 0 && X < -Width) X = AreaWidth;
         }
 
         public override void Draw(Graphics g)
