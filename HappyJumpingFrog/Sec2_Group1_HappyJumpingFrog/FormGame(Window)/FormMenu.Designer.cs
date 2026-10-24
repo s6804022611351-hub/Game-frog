@@ -42,7 +42,7 @@
             btnplay.Cursor = Cursors.IBeam;
             btnplay.Font = new Font("Palatino Linotype", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnplay.ForeColor = Color.MidnightBlue;
-            btnplay.Location = new Point(510, 31);
+            btnplay.Location = new Point(821, 26);
             btnplay.Name = "btnplay";
             btnplay.Size = new Size(280, 70);
             btnplay.TabIndex = 0;
@@ -58,7 +58,7 @@
             btnhelp.Cursor = Cursors.IBeam;
             btnhelp.Font = new Font("Palatino Linotype", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnhelp.ForeColor = Color.MidnightBlue;
-            btnhelp.Location = new Point(510, 118);
+            btnhelp.Location = new Point(821, 113);
             btnhelp.Name = "btnhelp";
             btnhelp.Size = new Size(280, 70);
             btnhelp.TabIndex = 1;
@@ -73,7 +73,7 @@
             btnhighscores.Cursor = Cursors.IBeam;
             btnhighscores.Font = new Font("Palatino Linotype", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnhighscores.ForeColor = Color.MidnightBlue;
-            btnhighscores.Location = new Point(510, 203);
+            btnhighscores.Location = new Point(821, 198);
             btnhighscores.Name = "btnhighscores";
             btnhighscores.Size = new Size(280, 70);
             btnhighscores.TabIndex = 2;
@@ -88,7 +88,7 @@
             btnMoreGame.Cursor = Cursors.IBeam;
             btnMoreGame.Font = new Font("Palatino Linotype", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnMoreGame.ForeColor = Color.MidnightBlue;
-            btnMoreGame.Location = new Point(510, 290);
+            btnMoreGame.Location = new Point(821, 285);
             btnMoreGame.Name = "btnMoreGame";
             btnMoreGame.Size = new Size(280, 70);
             btnMoreGame.TabIndex = 3;
@@ -101,7 +101,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.BackgroundFormMenu;
             BackgroundImageLayout = ImageLayout.Zoom;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1391, 490);
             Controls.Add(btnMoreGame);
             Controls.Add(btnhighscores);
             Controls.Add(btnhelp);
