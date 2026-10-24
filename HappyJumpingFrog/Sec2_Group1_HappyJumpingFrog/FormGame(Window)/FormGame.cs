@@ -117,7 +117,7 @@ namespace Sec2_Group1_HappyJumpingFrog
 
         private void FormGame_Load(object sender, EventArgs e)
         {
-            ////พิ้เ56้พ56เ5เ6
+            
         }
     }
 }
