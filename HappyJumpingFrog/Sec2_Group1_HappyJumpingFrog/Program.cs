@@ -11,7 +11,7 @@ namespace Sec2_Group1_HappyJumpingFrog
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormGame());
+            Application.Run(new FormMenu());
         }
     }
 }
