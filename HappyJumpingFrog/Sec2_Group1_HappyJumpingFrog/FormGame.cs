@@ -113,12 +113,11 @@ namespace Sec2_Group1_HappyJumpingFrog
             }
 
             Invalidate();
-            //wbadsfbwgfnnfwkewek
         }
 
         private void FormGame_Load(object sender, EventArgs e)
         {
-            ///sdijfidsjfiojdfidifojdi
+            
         }
     }
 }
