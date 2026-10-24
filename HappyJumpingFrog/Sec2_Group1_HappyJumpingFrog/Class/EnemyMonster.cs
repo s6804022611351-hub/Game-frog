@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Sec2_Group1_HappyJumpingFrog.Class
 {
-    public class EnemyMonster : GameObject
+    public class EnemyMonster : GameObject  
     {
         private readonly float _speed;        // บวก = ไปขวา, ลบ = ไปซ้าย
         public int AreaWidth { get; set; }  

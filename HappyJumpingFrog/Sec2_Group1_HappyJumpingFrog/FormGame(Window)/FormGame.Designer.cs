@@ -1,4 +1,6 @@
-﻿namespace Sec2_Group1_HappyJumpingFrog
+﻿using Sec2_Group1_HappyJumpingFrog.Class;
+
+namespace Sec2_Group1_HappyJumpingFrog
 {
     partial class FormGame
     {
@@ -51,4 +53,6 @@
 
         private System.Windows.Forms.Timer timerGame;
     }
-}
+    // ใน FormGame.cs
+
+    }
