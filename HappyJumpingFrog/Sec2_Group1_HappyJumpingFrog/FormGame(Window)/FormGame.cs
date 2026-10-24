@@ -5,9 +5,10 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.Numerics;
 using System.Text;
 using System.Windows.Forms;
-using System.Drawing.Drawing2D;
 
 
 namespace Sec2_Group1_HappyJumpingFrog
@@ -15,7 +16,8 @@ namespace Sec2_Group1_HappyJumpingFrog
     public partial class FormGame : Form
     {
 
-
+        private River river;
+        private PlayerFrog player;
         private const int WorldHeight = 650;   // ความสูงโลกเกม (คงที่)
         private const int PanelWidth = 160;    // ความกว้างแผงด้านขวา
         private const int ButtonSize = 64;
@@ -233,6 +235,22 @@ namespace Sec2_Group1_HappyJumpingFrog
         private void FormGame_Load(object sender, EventArgs e)
         {
             
+        }
+        protected override void OnPaint(PaintEventArgs e)
+        {
+            base.OnPaint(e);
+
+            // 1. สั่งวาดวัตถุในแม่น้ำทั้งหมด
+            if (river != null)
+            {
+                river.Draw(e.Graphics);
+            }
+
+            // 2. สั่งวาดตัวละครกบ
+            if (player != null)
+            {
+                player.Draw(e.Graphics);
+            }
         }
     }
 }
