@@ -49,3 +49,21 @@ C:\Users\Chananthon\Pictures\GAMe\GAME\Main\HappyJumpingFrog\Sec2_Group1_HappyJu
 C:\Users\Chananthon\Pictures\GAMe\GAME\Main\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.pdb
 C:\Users\Chananthon\Pictures\GAMe\GAME\Main\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.genruntimeconfig.cache
 C:\Users\Chananthon\Pictures\GAMe\GAME\Main\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\ref\Sec2_Group1_HappyJumpingFrog.dll
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\bin\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.exe
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\bin\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.deps.json
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\bin\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.runtimeconfig.json
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\bin\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.dll
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\bin\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.pdb
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.FormGame.resources
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.Properties.Resources.resources
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.csproj.GenerateResource.cache
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.AssemblyInfo.cs
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.sourcelink.json
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.dll
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\refint\Sec2_Group1_HappyJumpingFrog.dll
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.pdb
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\Sec2_Group1_HappyJumpingFrog.genruntimeconfig.cache
+C:\Users\asus\Documents\thank\Project OOP\Game-frog\HappyJumpingFrog\Sec2_Group1_HappyJumpingFrog\obj\Debug\net10.0-windows\ref\Sec2_Group1_HappyJumpingFrog.dll
