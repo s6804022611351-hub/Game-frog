@@ -13,6 +13,7 @@ namespace Sec2_Group1_HappyJumpingFrog
         public FormMenu()
         {
             InitializeComponent();
+            /////////
         }
 
         private void FormMenu_Load(object sender, EventArgs e)
